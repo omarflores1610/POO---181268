@@ -1,0 +1,15 @@
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\bin\Debug\net10.0\Ejercicio en clase 2 28-01-2026.exe
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\bin\Debug\net10.0\Ejercicio en clase 2 28-01-2026.deps.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\bin\Debug\net10.0\Ejercicio en clase 2 28-01-2026.runtimeconfig.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\bin\Debug\net10.0\Ejercicio en clase 2 28-01-2026.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\bin\Debug\net10.0\Ejercicio en clase 2 28-01-2026.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\Ejercicio en clase 2 28-01-2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\Ejercicio en clase 2 28-01-2026.AssemblyInfoInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\Ejercicio en clase 2 28-01-2026.AssemblyInfo.cs
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\Ejercicio en clase 2 28-01-2026.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\Ejercicio en clase 2 28-01-2026.sourcelink.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\Ejercicio en clase 2 28-01-2026.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\refint\Ejercicio en clase 2 28-01-2026.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\Ejercicio en clase 2 28-01-2026.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\Ejercicio en clase 2 28-01-2026.genruntimeconfig.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio en clase 2 28-01-2026\Ejercicio en clase 2 28-01-2026\obj\Debug\net10.0\ref\Ejercicio en clase 2 28-01-2026.dll

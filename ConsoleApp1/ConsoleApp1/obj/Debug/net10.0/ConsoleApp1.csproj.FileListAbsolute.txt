@@ -1,0 +1,15 @@
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
