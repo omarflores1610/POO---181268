@@ -1,0 +1,15 @@
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\bin\Debug\net10.0\erkhaoerhgetoil.exe
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\bin\Debug\net10.0\erkhaoerhgetoil.deps.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\bin\Debug\net10.0\erkhaoerhgetoil.runtimeconfig.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\bin\Debug\net10.0\erkhaoerhgetoil.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\bin\Debug\net10.0\erkhaoerhgetoil.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\erkhaoerhgetoil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\erkhaoerhgetoil.AssemblyInfoInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\erkhaoerhgetoil.AssemblyInfo.cs
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\erkhaoerhgetoil.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\erkhaoerhgetoil.sourcelink.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\erkhaoerhgetoil.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\refint\erkhaoerhgetoil.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\erkhaoerhgetoil.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\erkhaoerhgetoil.genruntimeconfig.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\erkhaoerhgetoil\erkhaoerhgetoil\obj\Debug\net10.0\ref\erkhaoerhgetoil.dll
