@@ -1,0 +1,15 @@
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\bin\Debug\net10.0\Ejercicio2LabSession.exe
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\bin\Debug\net10.0\Ejercicio2LabSession.deps.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\bin\Debug\net10.0\Ejercicio2LabSession.runtimeconfig.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\bin\Debug\net10.0\Ejercicio2LabSession.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\bin\Debug\net10.0\Ejercicio2LabSession.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\Ejercicio2LabSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\Ejercicio2LabSession.AssemblyInfoInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\Ejercicio2LabSession.AssemblyInfo.cs
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\Ejercicio2LabSession.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\Ejercicio2LabSession.sourcelink.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\Ejercicio2LabSession.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\refint\Ejercicio2LabSession.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\Ejercicio2LabSession.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\Ejercicio2LabSession.genruntimeconfig.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio2LabSession\Ejercicio2LabSession\obj\Debug\net10.0\ref\Ejercicio2LabSession.dll
