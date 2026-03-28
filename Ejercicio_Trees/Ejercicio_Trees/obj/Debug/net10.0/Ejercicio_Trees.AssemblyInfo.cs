@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio_Trees")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e822b0efff76d63d312cc53636564e674056dc8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c816ed43836b2044509ab0ea1b8032d41d1e32b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio_Trees")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio_Trees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

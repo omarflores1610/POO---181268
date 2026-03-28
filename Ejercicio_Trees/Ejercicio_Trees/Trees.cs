@@ -29,6 +29,4 @@ public class Trees
         }
         Console.WriteLine("The new foliage is: " + foliage);
     } 
-    
-    
 }

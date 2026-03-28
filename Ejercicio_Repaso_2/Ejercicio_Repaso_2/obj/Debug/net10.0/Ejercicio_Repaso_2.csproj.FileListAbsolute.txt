@@ -1,0 +1,15 @@
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\bin\Debug\net10.0\Ejercicio_Repaso_2.exe
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\bin\Debug\net10.0\Ejercicio_Repaso_2.deps.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\bin\Debug\net10.0\Ejercicio_Repaso_2.runtimeconfig.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\bin\Debug\net10.0\Ejercicio_Repaso_2.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\bin\Debug\net10.0\Ejercicio_Repaso_2.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\Ejercicio_Repaso_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\Ejercicio_Repaso_2.AssemblyInfoInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\Ejercicio_Repaso_2.AssemblyInfo.cs
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\Ejercicio_Repaso_2.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\Ejercicio_Repaso_2.sourcelink.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\Ejercicio_Repaso_2.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\refint\Ejercicio_Repaso_2.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\Ejercicio_Repaso_2.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\Ejercicio_Repaso_2.genruntimeconfig.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\Ejercicio_Repaso_2\Ejercicio_Repaso_2\obj\Debug\net10.0\ref\Ejercicio_Repaso_2.dll
