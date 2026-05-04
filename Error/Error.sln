@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Error", "Error\Error.csproj", "{77084B76-19BA-4F4D-A376-C7CCF9D5DEE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77084B76-19BA-4F4D-A376-C7CCF9D5DEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77084B76-19BA-4F4D-A376-C7CCF9D5DEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77084B76-19BA-4F4D-A376-C7CCF9D5DEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77084B76-19BA-4F4D-A376-C7CCF9D5DEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

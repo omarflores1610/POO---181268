@@ -1,0 +1,16 @@
+﻿// Mi primer código :D
+// Lo escribí rápido, algo está mal.
+// Si lo corrijo, ¿qué imprimiría?
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int parte1 = 3
+        int parte2 = 4;
+        int resultado = parte1 + parte2;
+        Console.WrtieLine(resultado);
+    }
+}

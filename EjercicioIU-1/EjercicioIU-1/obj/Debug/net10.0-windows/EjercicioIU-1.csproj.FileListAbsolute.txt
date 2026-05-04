@@ -1,0 +1,15 @@
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\bin\Debug\net10.0-windows\EjercicioIU-1.exe
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\bin\Debug\net10.0-windows\EjercicioIU-1.deps.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\bin\Debug\net10.0-windows\EjercicioIU-1.runtimeconfig.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\bin\Debug\net10.0-windows\EjercicioIU-1.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\bin\Debug\net10.0-windows\EjercicioIU-1.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\EjercicioIU-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\EjercicioIU-1.AssemblyInfoInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\EjercicioIU-1.AssemblyInfo.cs
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\EjercicioIU-1.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\EjercicioIU-1.sourcelink.json
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\EjercicioIU-1.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\refint\EjercicioIU-1.dll
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\EjercicioIU-1.pdb
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\EjercicioIU-1.genruntimeconfig.cache
+C:\Users\Propietario\Desktop\UDLAP\PRIMAVERA 2026\POO\new_proyect\POO---181268\EjercicioIU-1\EjercicioIU-1\obj\Debug\net10.0-windows\ref\EjercicioIU-1.dll
