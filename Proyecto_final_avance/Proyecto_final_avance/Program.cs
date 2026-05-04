@@ -17,15 +17,15 @@
             int totalAttempts = 0;
             bool gameFinished = false;
 
-            Console.WriteLine("==================================");
-            Console.WriteLine("         The Safecracker");
-            Console.WriteLine("==================================");
             Console.WriteLine();
-            Console.WriteLine("Eres un científico infiltrado en una base secreta.");
+            Console.WriteLine("         Videojuego perrón: La caja fuerte");
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Eres un científico infiltrado en una base secreta");
             Console.WriteLine("La información que necesitas está guardada en una caja fuerte");
-            Console.WriteLine("protegida por tres cerraduras.");
+            Console.WriteLine("protegida por tres cerraduras");
             Console.WriteLine("Cada una tiene un patrón. Encuéntralo antes de que");
-            Console.WriteLine("el soldado te descubra.");
+            Console.WriteLine("el soldado te descubra");
             Console.WriteLine();
             Console.WriteLine("Presiona ENTER para comenzar.");
             Console.ReadLine();
@@ -47,9 +47,9 @@
                     currentLock = new ImageLock();
                 }
 
-                Console.WriteLine("----------------------------------");
+                Console.WriteLine();
                 Console.WriteLine("NIVEL " + level);
-                Console.WriteLine("----------------------------------");
+                Console.WriteLine();
                 Console.WriteLine(currentLock.GetTitle());
                 Console.WriteLine();
                 Console.WriteLine(currentLock.GetDescription());
@@ -112,23 +112,23 @@
 
                         if (correct)
                         {
-                            Console.WriteLine("Correcto. Cerradura abierta.");
+                            Console.WriteLine("Correcto!, cerradura abierta.");
                         }
                         else
                         {
                             if (currentLock.GetNoAttemptsLeft())
                             {
-                                Console.WriteLine("¡Te descubrió el soldado!");
+                                Console.WriteLine("Te descubrió el soldado!");
                             }
                             else
                             {
-                                Console.WriteLine("Código incorrecto.");
+                                Console.WriteLine("Código incorrecto");
                             }
                         }
                     }
                     else
                     {
-                        Console.WriteLine("Opción no válida.");
+                        Console.WriteLine("Opción inválida");
                     }
 
                     Console.WriteLine();
@@ -143,23 +143,23 @@
                     else
                     {
                         level++;
-                        Console.WriteLine("Pasas al siguiente nivel.");
+                        Console.WriteLine("Pasas al siguiente nivel");
                         Console.WriteLine();
                     }
                 }
                 else
                 {
-                    Console.WriteLine("El soldado te encontró. Repites el nivel.");
-                    Console.WriteLine("Esta vez ya sabes por dónde va.");
+                    Console.WriteLine("El soldado te encontró. Repites el nivel");
+                    Console.WriteLine("Esta vez ya sabes por dónde va");
                     Console.WriteLine();
                     Console.WriteLine("Pista automática: " + currentLock.GiveHint(currentLock.GetHintsLength() - 1));
                     Console.WriteLine();
                 }
             }
 
-            Console.WriteLine("==================================");
-            Console.WriteLine("       CAJA FUERTE ABIERTA");
-            Console.WriteLine("==================================");
+            Console.WriteLine("! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !");
+            Console.WriteLine("       ¡¡CAJA FUERTE ABIERTA!!");
+            Console.WriteLine("! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !");
             Console.WriteLine();
             Console.WriteLine("Lo lograste. La caja fuerte está abierta.");
             Console.WriteLine("Intentos totales: " + totalAttempts);

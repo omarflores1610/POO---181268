@@ -29,7 +29,7 @@ public class GameFiles
         using (StreamWriter sw = new StreamWriter(path, false, Encoding.UTF8))
         {
             sw.WriteLine("MENSAJE EN CÓDIGO MORSE");
-            sw.WriteLine("=======================");
+            sw.WriteLine();
             sw.WriteLine();
             sw.WriteLine("El papel dice:");
             sw.WriteLine();
@@ -37,10 +37,10 @@ public class GameFiles
             sw.WriteLine();
             sw.WriteLine("Cada grupo separado por / es una letra.");
             sw.WriteLine();
-            sw.WriteLine("=======================");
+            sw.WriteLine();
             sw.WriteLine();
             sw.WriteLine("ALFABETO MORSE");
-            sw.WriteLine("==============");
+            sw.WriteLine();
             sw.WriteLine();
             sw.WriteLine("A  .-      B  -...    C  -.-.    D  -..     E  .");
             sw.WriteLine("F  ..-.    G  --.     H  ....    I  ..      J  .---");
@@ -69,18 +69,15 @@ public class GameFiles
             sw.WriteLine("// Lo escribí rápido, algo está mal.");
             sw.WriteLine("// Si lo corrijo, ¿qué imprimiría?");
             sw.WriteLine();
-            sw.WriteLine("using System;");
-            sw.WriteLine();
-            sw.WriteLine("class Program");
-            sw.WriteLine("{");
-            sw.WriteLine("    static void Main()");
+            sw.WriteLine("    int resultado = 0");
+            sw.WriteLine("    for (int i = 1; i <= 6; i++)");
             sw.WriteLine("    {");
-            sw.WriteLine("        int parte1 = 3");
-            sw.WriteLine("        int parte2 = 4;");
-            sw.WriteLine("        int resultado = parte1 + parte2;");
-            sw.WriteLine("        Console.WrtieLine(resultado);");
+            sw.WriteLine("        if (i % 2 = 0)");
+            sw.WriteLine("        {");
+            sw.WriteLine("            resultado =+ i * 3;");
+            sw.WriteLine("        }");
             sw.WriteLine("    }");
-            sw.WriteLine("}");
+            sw.WriteLine("    Console.WrtieLine(resultado)");
         }
     }
 
@@ -91,12 +88,11 @@ public class GameFiles
         if (!File.Exists(fullPath))
         {
             Console.WriteLine("No se encontró el archivo de recompensa.");
-            Console.WriteLine("Ruta esperada: " + fullPath);
             return;
         }
 
         FileInfo info = new FileInfo(fullPath);
-        Console.WriteLine("Abriendo recompensa: recompensa.png (" + info.Length + " bytes)");
+        Console.WriteLine("Abriendo recompensa: recompensa.png");
 
         ProcessStartInfo process = new ProcessStartInfo();
         process.FileName = fullPath;

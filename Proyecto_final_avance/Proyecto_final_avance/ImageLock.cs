@@ -10,12 +10,12 @@ public class ImageLock : Lock
         title = "La imagen cifrada";
 
         description =
-            "La última cerradura. Pegada en la caja fuerte hay una imagen\n" +
-            "Hay un número escondido en ella, encuéntralo y abre la caja";
+            "Esta es la última cerradura, en la cual hay una imagen que contiene" +
+            "un número escondido en ella, encuéntralo y abre la caja";
 
         hints = new string[2];
-        hints[0] = "El número está en la imagen, no en las letras grandes. Mira el fondo.";
-        hints[1] = "La respuesta es 89.";
+        hints[0] = "No te bases en las letras";
+        hints[1] = "La respuesta es un número primo";
     }
 
     public override void OpenResource(string folder)
@@ -25,12 +25,11 @@ public class ImageLock : Lock
         if (!File.Exists(fullPath))
         {
             Console.WriteLine("No se encontró el archivo: nivel3_imagen.png");
-            Console.WriteLine("Ruta esperada: " + fullPath);
             return;
         }
 
         FileInfo info = new FileInfo(fullPath);
-        Console.WriteLine("Abriendo: nivel3_imagen.png (" + info.Length + " bytes)");
+        Console.WriteLine("Abriendo: nivel3_imagen.png");
 
         ProcessStartInfo process = new ProcessStartInfo();
         process.FileName = fullPath;
